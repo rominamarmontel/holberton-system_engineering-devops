@@ -1,1 +1,2 @@
 #!/bin/bash
+ls -UFR | grep -v "/\|.:\|^\s*$" | wc -l
