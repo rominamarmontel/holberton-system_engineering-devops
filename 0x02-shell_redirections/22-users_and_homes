@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -oE /etc/passwd
+cut -b 1-100 /etc/passwd
