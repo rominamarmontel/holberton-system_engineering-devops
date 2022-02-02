@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%x\n' 10
+echo "obase=10; ibase=16; $number" | bc
