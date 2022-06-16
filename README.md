@@ -17,4 +17,4 @@ The list of projects contained follows :
 
 ## Author :black_nib:
 
-* __Côme LE SAUTER__
+* __Hiromi VARNIER__
