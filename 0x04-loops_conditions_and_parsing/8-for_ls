@@ -1,16 +1,6 @@
 #!/usr/bin/env bash
-# This script is displaying "Best School" 10 times
-i=0
-while [ $i -lt 25 ]
+# Bash script that displays the content of the current directory in a list format
+for i in *
 do
-    echo "Hour: $i"
-    j=0
-    if [ $i -ne 24 ]; then
-        while [ $j -lt 59 ]
-        do
-            j=$(( j + 1 ))
-            echo "$j"
-        done
-    fi
-    i=$(( i + 1 ))
+	echo "$i" | cut -d '-' -f2
 done

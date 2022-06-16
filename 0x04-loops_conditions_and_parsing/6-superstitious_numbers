@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Best School" 10 times
+# Bash script that displays numbers from 1 to 20 and
 i=1
 while [ $i -lt 21 ]
 do
