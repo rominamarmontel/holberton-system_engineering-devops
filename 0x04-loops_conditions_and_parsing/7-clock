@@ -1,16 +1,14 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times
 i=0
-while (( i < 25 ))
+while (( i <= 12 ))
 do
     echo "Hour: $i"
     j=0
-    if (( j < 24 )); then
-        while (( j < 59 ))
-        do
-            j=$(( j + 1 ))
-            echo "$j"
-        done
-    fi
+    while (( j <= 59 ))
+    do
+        echo "$j"
+        j=$(( j + 1 ))
+    done
     i=$(( i + 1 ))
 done
