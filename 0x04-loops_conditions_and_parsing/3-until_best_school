@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 9 times and "Hi!"
 i=0
-until [ $i -gt 9 ]
+until ((i == 10))
 do
-    echo "Best School"
-    i=$(( i + 1 ))
+	echo "Best School"
+	((i++))
 done
