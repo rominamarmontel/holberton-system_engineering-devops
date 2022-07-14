@@ -66,9 +66,9 @@ Requirements:
 
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 Add URLs here:
-
-    https://miro.com/app/board/uXjVOmYHgvU=/?share_link_id=762745072824  
-
+```
+[HERE!!](https://miro.com/app/board/uXjVOmYHgvU=/?share_link_id=762745072824)
+```
 
 ### 1. Distributed web infrastructure
 
@@ -96,9 +96,9 @@ Requirements:
 
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 Add URLs here:
-
-    https://miro.com/app/board/uXjVOmeAO3o=/?share_link_id=798230980335
-
+```
+[HERE!!](https://miro.com/app/board/uXjVOmeAO3o=/?share_link_id=798230980335)
+```
 ### 2. Secured and monitored web infrastructure
 
 On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com, it must be secured, serve encrypted traffic, and be monitored.
@@ -123,9 +123,9 @@ Requirements:
 
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 Add URLs here:
-
-    https://miro.com/app/board/uXjVOmed3PU=/?share_link_id=344818382821
-
+```
+[HERE!!](https://miro.com/app/board/uXjVOmed3PU=/?share_link_id=344818382821)
+```
 ## Task advanced
 ### 3. Scale up
 
@@ -144,9 +144,9 @@ Requirements:
 
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 Add URLs here:
-
-    https://miro.com/app/board/uXjVOmed3PU=/?share_link_id=344818382821
-    
+```
+[HERE!!]()
+```    
 ## :couple: About us ##
 This is the first group project in Holberton Paris School in the 14 July 2022!!<br>
 If you have a question or a comment, please contact us.<br>
