@@ -3,12 +3,14 @@
 
 ## Concepts
 For this project, we expect you to look at these concepts:
+```
 - DNS
 - Monitoring
 - Web Server
 - Network basics
 - Load balancer
 - Server
+```
 
 ## Resources
 - Network basics concept page
@@ -146,7 +148,7 @@ Add URLs here:
     https://miro.com/app/board/uXjVOmed3PU=/?share_link_id=344818382821
     
 ## :couple: About us ##
-This is the first group project in Holberton Paris School in the 26 June 2022!!<br>
+This is the first group project in Holberton Paris School in the 14 July 2022!!<br>
 If you have a question or a comment, please contact us.<br>
 
 Côme Le Sauter (4255@holbertonschool.com)<br>
