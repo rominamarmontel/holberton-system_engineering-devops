@@ -97,7 +97,7 @@ Requirements:
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 Add URLs here:
 ```
-[HERE!!](https://miro.com/app/board/uXjVOmeAO3o=/?share_link_id=798230980335)
+https://miro.com/app/board/uXjVOmeAO3o=/?share_link_id=798230980335
 ```
 ### 2. Secured and monitored web infrastructure
 
@@ -124,7 +124,7 @@ Requirements:
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 Add URLs here:
 ```
-[HERE!!](https://miro.com/app/board/uXjVOmed3PU=/?share_link_id=344818382821)
+https://miro.com/app/board/uXjVOmed3PU=/?share_link_id=344818382821
 ```
 ## Task advanced
 ### 3. Scale up
@@ -145,7 +145,7 @@ Requirements:
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 Add URLs here:
 ```
-[HERE!!]()
+
 ```    
 ## :couple: About us ##
 This is the first group project in Holberton Paris School in the 14 July 2022!!<br>
