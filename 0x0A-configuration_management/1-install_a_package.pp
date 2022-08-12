@@ -1,5 +1,5 @@
-# Using Puppet, install puppet-lint
-
-exec { 'sudo gem install puppet-lint -v 2.5.0':
-  path => '/usr/bin',
+# Create a manifest that kills a process named killmenow
+exec { 'kill':
+  command => 'pkill killmenow',
+  path    => '/usr/bin',
   }
