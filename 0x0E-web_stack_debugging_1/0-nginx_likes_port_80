@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#debugging
+# Nginx installation port 80
 
 service nginx start
 ufw allow 'Nginx HTTP'
