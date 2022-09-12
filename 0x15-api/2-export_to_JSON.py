@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 """Python script to export data in the JSON format"""
 
-from sys import argv
-import requests
 import json
+import requests
+from sys import argv
 
 
 if __name__ == "__main__":
@@ -18,7 +18,7 @@ if __name__ == "__main__":
         task_dico = {}
         task_dico["task"] = task.get('title')
         task_dico["completed"] = task.get('completed')
-        task_dico["username"] = task.get('name')
+        task_dico["username"] = task.get('username')
         completed_tasks.append(task_dico)
     json_obj = {}
     json_obj[userId] = completed_tasks
