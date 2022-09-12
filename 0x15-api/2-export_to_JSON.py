@@ -18,7 +18,7 @@ if __name__ == "__main__":
         task_dico = {}
         task_dico["task"] = task.get('title')
         task_dico["completed"] = task.get('completed')
-        task_dico["username"] = task.get('username')
+        task_dico["username"] = json_user.get('username')
         completed_tasks.append(task_dico)
     json_obj = {}
     json_obj[userId] = completed_tasks
