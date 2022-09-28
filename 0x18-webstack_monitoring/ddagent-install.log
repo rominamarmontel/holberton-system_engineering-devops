@@ -24,7 +24,28 @@ Get:1 http://deb.debian.org/debian bullseye/main amd64 apt-transport-https all 2
 debconf: delaying package configuration, since apt-utils is not installed
 Fetched 160 kB in 1s (131 kB/s)
 Selecting previously unselected package apt-transport-https.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 28767 files and directories currently installed.)
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 28767 files and directories currently installed.)
 Preparing to unpack .../apt-transport-https_2.2.4_all.deb ...
 Unpacking apt-transport-https (2.2.4) ...
 Setting up apt-transport-https (2.2.4) ...
@@ -33,7 +54,10 @@ Setting up apt-transport-https (2.2.4) ...
 [0m
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  6226  100  6226    0     0   5798      0  0:00:01  0:00:01 --:--:--  5802
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100  6226  100  6226    0     0   5798      0  0:00:01  0:00:01 --:--:--  5802
 gpg: directory '/root/.gnupg' created
 gpg: /root/.gnupg/trustdb.gpg: trustdb created
 gpg: key 32637D44F14F620E: public key "Datadog, Inc. Master key (2020-09-08) <package+masterkey@datadoghq.com>" imported
@@ -41,13 +65,20 @@ gpg: Total number processed: 1
 gpg:               imported: 1
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  6226  100  6226    0     0   4696      0  0:00:01  0:00:01 --:--:--  4698
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100  6226  100  6226    0     0   4696      0  0:00:01  0:00:01 --:--:--  4698
 gpg: key 32637D44F14F620E: "Datadog, Inc. Master key (2020-09-08) <package+masterkey@datadoghq.com>" not changed
 gpg: Total number processed: 1
 gpg:              unchanged: 1
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100  9001  100  9001    0     0   6699      0  0:00:01  0:00:01 --:--:--  6697
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+100  9001  100  9001    0     0   6699      0  0:00:01  0:00:01 --:--:--  6697
 gpg: key D3A80E30382E94DE: public key "Datadog, Inc <package@datadoghq.com>" imported
 gpg: Total number processed: 1
 gpg:               imported: 1
@@ -76,7 +107,28 @@ Get:2 https://apt.datadoghq.com stable/7 amd64 datadog-signing-keys all 1:1.1.0-
 debconf: delaying package configuration, since apt-utils is not installed
 Fetched 282 MB in 21s (13.8 MB/s)
 Selecting previously unselected package datadog-agent.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 28771 files and directories currently installed.)
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 28771 files and directories currently installed.)
 Preparing to unpack .../datadog-agent_1%3a7.39.1-1_amd64.deb ...
 Unpacking datadog-agent (1:7.39.1-1) ...
 Selecting previously unselected package datadog-signing-keys.
