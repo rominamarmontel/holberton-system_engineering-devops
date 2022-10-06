@@ -3,7 +3,7 @@
 exec { 'Update nginx':
     command => 'sed -i s/15/2000/ /etc/default/nginx',
     path    =>  [ '/bin/', '/sbin/' , '/usr/bin/', '/usr/sbin/' ]
-}
+} ->
 
 exec { 'Restart nginx':
     command => 'sudo service nginx restart',
